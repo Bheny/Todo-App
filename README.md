@@ -1,6 +1,5 @@
-# HTU-Robotics
-
-This is a website designed and built with react to serve as a front to keep the club activities open to the wider public. Its a free project and will be donated to the Club later.
+# To-do App
+React built Todo Application for listing down items one intends to do. It is how i used to learn react . 
 
 # Getting Started with Create React App
 
